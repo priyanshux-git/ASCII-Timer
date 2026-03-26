@@ -4,10 +4,10 @@
 <hr>
 
 ## How to Run
-### Download the binary from <a href = "https://github.com/priyanshu00001/ASCII-Timer/releases/"> releases </a> or follow theses staps
+### Download the binary from <a href = "https://github.com/priyanshux-git/ASCII-Timer/releases/"> releases </a> or follow theses staps
 <li>Install Python in your machine</li>
 <li>Clone this repo</li>
-<pre>git clone https://github.com/priyanshu00001/ASCII-Timer.git</pre>
+<pre>git clone https://github.com/priyanshux-git/ASCII-Timer.git</pre>
 <li>Install all the python modules/libraries from requirements.txt</li>
 <pre>pip install -r /path/to/requirements.txt</pre>
 <li>Open your terminal in this directory</li>
